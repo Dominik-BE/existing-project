@@ -1,1 +1,1 @@
-console.log('Skipping school to do 500 push ups');
+console.log('pulling up not pulling chicks');
