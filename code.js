@@ -1,1 +1,1 @@
-console.log('code and train');
+console.log('Skipping school to do 500 push ups');
